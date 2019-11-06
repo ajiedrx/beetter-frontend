@@ -6,7 +6,7 @@
 
         <div class="sidebar-header">
 {{--            <h3>Trackey</h3>--}}
-            <img class="mb-0" src="{{asset('/img/trackey-logo-light.png')}}" width="95" height="40">
+            <img class="mb-0" src="{{asset('/img/beeter-logo-light.png')}}" width="93" height="25">
         </div>
 
         <ul class="list-unstyled components">

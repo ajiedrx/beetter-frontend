@@ -11,7 +11,7 @@
             <div class="card bg-light rounded-lg">
                 <div class="card-body ml-5 mr-5">
                     <div class="text-center">
-                        <img src="{{asset('/img/trackey-logo.png')}}" width="120.97" height="51.92">
+                        <img src="{{asset('/img/beeter-logo-dark.png')}}" width="120.97" height="40">
                     </div>
                     <div class="form-group mb-1">
                         <label for="nameInput"></label>
